@@ -1,9 +1,5 @@
-# rutube
+# RuTube
 Ruby gem for YouTube API V3
-=======
-# Rutube
-
-TODO: Write a gem description
 
 ## Installation
 
